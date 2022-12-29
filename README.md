@@ -12,4 +12,4 @@ You can click the Preview link to take a look at your changes.
 
 ### Now Playing 🎧
 
-[![QQMusic](https://y.qq.com/n/ryqq/songDetail/1202971?songtype=0)
+[![QQMusic](https://y.qq.com/n/ryqq/songDetail/1202971?songtype=0)]
