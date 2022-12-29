@@ -9,5 +9,7 @@ Ekko-Sun/Ekko-Sun is a ✨ special ✨ repository because its `README.md` (this 
 You can click the Preview link to take a look at your changes.
 --->
 
-# Now Playing 
-https://c.y.qq.com/base/fcgi-bin/u?__=DkiUX
+
+### Now Playing 🎧
+
+[![QQMusic](https://y.qq.com/n/ryqq/songDetail/1202971?songtype=0)
